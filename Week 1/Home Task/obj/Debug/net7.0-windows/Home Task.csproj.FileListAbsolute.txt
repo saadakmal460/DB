@@ -1,0 +1,25 @@
+D:\4th Semester\DB\Week 1\Home Task\obj\Debug\net7.0-windows\Home Task.csproj.AssemblyReference.cache
+D:\4th Semester\DB\Week 1\Home Task\obj\Debug\net7.0-windows\Home Task.csproj.GenerateResource.cache
+D:\4th Semester\DB\Week 1\Home Task\obj\Debug\net7.0-windows\Home Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\4th Semester\DB\Week 1\Home Task\obj\Debug\net7.0-windows\Home Task.AssemblyInfoInputs.cache
+D:\4th Semester\DB\Week 1\Home Task\obj\Debug\net7.0-windows\Home Task.AssemblyInfo.cs
+D:\4th Semester\DB\Week 1\Home Task\obj\Debug\net7.0-windows\Home Task.csproj.CoreCompileInputs.cache
+D:\4th Semester\DB\Week 1\Home Task\obj\Debug\net7.0-windows\Home_Task.Form1.resources
+D:\4th Semester\DB\Week 1\Home Task\bin\Debug\net7.0-windows\Home Task.exe
+D:\4th Semester\DB\Week 1\Home Task\bin\Debug\net7.0-windows\Home Task.deps.json
+D:\4th Semester\DB\Week 1\Home Task\bin\Debug\net7.0-windows\Home Task.runtimeconfig.json
+D:\4th Semester\DB\Week 1\Home Task\bin\Debug\net7.0-windows\Home Task.dll
+D:\4th Semester\DB\Week 1\Home Task\bin\Debug\net7.0-windows\Home Task.pdb
+D:\4th Semester\DB\Week 1\Home Task\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+D:\4th Semester\DB\Week 1\Home Task\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+D:\4th Semester\DB\Week 1\Home Task\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+D:\4th Semester\DB\Week 1\Home Task\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+D:\4th Semester\DB\Week 1\Home Task\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\4th Semester\DB\Week 1\Home Task\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\4th Semester\DB\Week 1\Home Task\obj\Debug\net7.0-windows\Home_Task.Form2.resources
+D:\4th Semester\DB\Week 1\Home Task\obj\Debug\net7.0-windows\Home Task.csproj.CopyComplete
+D:\4th Semester\DB\Week 1\Home Task\obj\Debug\net7.0-windows\Home Task.dll
+D:\4th Semester\DB\Week 1\Home Task\obj\Debug\net7.0-windows\refint\Home Task.dll
+D:\4th Semester\DB\Week 1\Home Task\obj\Debug\net7.0-windows\Home Task.pdb
+D:\4th Semester\DB\Week 1\Home Task\obj\Debug\net7.0-windows\Home Task.genruntimeconfig.cache
+D:\4th Semester\DB\Week 1\Home Task\obj\Debug\net7.0-windows\ref\Home Task.dll
