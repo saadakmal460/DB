@@ -102,14 +102,19 @@ namespace Home_Task
         private void button3_Click(object sender, EventArgs e)
         {
 
+            DataGridViewRow selectedRow = dataGridView1.SelectedRows[0];
+
+            string registrationNumber = selectedRow.Cells["RegistrationNumber"].Value.ToString();
+
 
             var con = Configuration.getInstance().getConnection();
-            SqlCommand cmd = new SqlCommand("UPDATE Student SET Name = @Name, Department = @Department, Session = @Session, Adress = @Adress WHERE RegistrationNumber = @RegistrationNumber", con);
-            cmd.Parameters.AddWithValue("@RegistrationNumber", textBox1.Text);
+            SqlCommand cmd = new SqlCommand("UPDATE Student SET RegistrationNumber = @newRegistrationNumber ,Name = @Name, Department = @Department, Session = @Session, Adress = @Adress WHERE RegistrationNumber = @OldRegistrationNumber", con);
+            cmd.Parameters.AddWithValue("@OldRegistrationNumber", registrationNumber);
+
+            cmd.Parameters.AddWithValue("@newRegistrationNumber", textBox1.Text);
             cmd.Parameters.AddWithValue("@Name", textBox2.Text);
             cmd.Parameters.AddWithValue("@Department", textBox3.Text);
             cmd.Parameters.AddWithValue("@Session", int.Parse(textBox4.Text));
-
             cmd.Parameters.AddWithValue("@Adress", textBox6.Text);
 
 
